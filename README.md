@@ -22,7 +22,7 @@
 {"@context":"https://schema.org","@type":"WebSite","description":"Hello there, I’m Jennifer Short ( “Software Developer | Professor @ Durham College and Seneca Polytechnic” )","headline":"Jennifer Short","name":"Jennifer Short","url":"https://www.jennifershort.ca/"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/css/style.css">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
     </head>
   <body>
@@ -30,7 +30,7 @@
       
       <h1><a href="https://www.jennifershort.ca/">Jennifer Short</a></h1>
 
-      <p><img src="/assets/images/banner.png" alt="Banner" /></p>
+      <p><img src="/images/banner.png" alt="Banner" /></p>
       <h1 align="center">
   Hello there, I'm <a href="https://github.com/peanutlab">Jennifer</a> 👋
 </h1>
